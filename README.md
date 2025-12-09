@@ -17,3 +17,6 @@ El projecte tractará sobre com començar a utilitzar Git i Github, utilitzant l
 Aquesta línia s'ha afegit des del meu ordinador.
 
 Aquesta línia s'ha afegit des de Github
+
+## Instal·lació
+

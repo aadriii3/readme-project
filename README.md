@@ -43,8 +43,11 @@ git clone git@github.com:aadriii3/readme-project.git
 git checkout -b feature/nova-seccio
 
 4. Fes els teus canvis, confirma'ls i puja la branca:
+
 git add .
+
 git commit -m "feat: afegeix nova secció"
+
 git push -u origin feature/nova-seccio
 
 

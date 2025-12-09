@@ -21,3 +21,9 @@ Aquesta línia s'ha afegit des de Github
 ## Instal·lació
 
 Conflicte resolt manualment entre dues branques.
+
+## Clonació del projecte
+
+Per clonar aquest repositori al teu ordinador:
+
+git clone git@github.com:aadriii3/readme-project.git

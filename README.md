@@ -20,3 +20,4 @@ Aquesta línia s'ha afegit des de Github
 
 ## Instal·lació
 
+Conflicte resolt manualment entre dues branques.

@@ -15,3 +15,5 @@ S'utilitzarán les tecnologíes Git i Github.
 El projecte tractará sobre com començar a utilitzar Git i Github, utilitzant les comandes necessáries i més útils per començar.
 
 Aquesta línia s'ha afegit des del meu ordinador.
+
+Aquesta línia s'ha afegit des de Github

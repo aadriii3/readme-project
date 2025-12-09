@@ -9,3 +9,8 @@ Practicar Git i Github creant un README ben estructurat i aplicant bones pràcti
 ##Tecnologíes
 
 S'utilitzarán les tecnologíes Git i Github.
+
+##Descripció
+
+El projecte tractará sobre com començar a utilitzar Git i Github, utilitzant les comandes necessáries i més útils per començar.
+
